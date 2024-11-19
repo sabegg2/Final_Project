@@ -1,6 +1,6 @@
 # Final_Project
 - Final Project
-- Steph Abegg (I okayed it with James to do this project solo and use company data)
+- Steph Abegg (I okayed it with James to do this project solo so I could use company data)
 
 ## Report
 
