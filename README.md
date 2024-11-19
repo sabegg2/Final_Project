@@ -4,7 +4,7 @@
 
 ## Project Requirements
 
-My project meets the following project requiements:
+My project meets the following project requirements:
 
 - My project is about a problem worth solving, analyzing, and visualizing. In fact, my (previous) company plans to implement the results.
 - I used machine learning, since my project focuses on developing a multilinear regression model to use forecast data to model site-specific conditions.
