@@ -13,7 +13,7 @@ My project meets the following project requiements:
 - From the list of "you must use at least two of the following", I used:
   - Python Pandas
   - Python Matplotlib
-- In addition, I used:
+- Since my project is based on Python anlaysis, I used sevearl other additional python packages/libraries:
   - Python datetime
   - Python numpy
   - Python math
