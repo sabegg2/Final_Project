@@ -26,17 +26,25 @@ My project meets the project requirements, detailed a follows:
 
 ## Report
 
-[Final_Project_Report.docx](Final_Project_Report.docx)
+The entire project and results and conclusions are described in this report:
+
+[Final_Project_Report.pdf](Final_Project_Report.pdf)
 
 ## Presentation
+
+This is the powerpoint for the in-class presentation:
 
 [Final_Project_Presentation.pptx](Final_Project_Presentation.pptx)
 
 ## Python Notebook Files
 
+The following are the notebook files used to conduct the analyis:
+
 [read_nam_files.ipynb](Python/read_nam_files.ipynb)
+Reads in the NAM files from .tar files, extracts the desired wind and tempearture forecasts for the location of the anemometer, and saves in .csv. 
 
 [3d_vs_NAM_analysis.ipynb](Python/3d_vs_NAM_analysis.ipynb)
+Compares the 3D anemometer measurements to the NAM forecast data over the same timeframe, via timeseries plots, histograms, binning, and linear regression.
 
 [regression.ipynb](Python/regression.ipynb)
-
+Developes a multilinear regression model trained on NAM forecast data to predict site-specific wind and temperature predictions. The model performance is also assessed.
