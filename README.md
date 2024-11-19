@@ -4,16 +4,16 @@
 
 ## Project Requirements
 
-My project meets the following project requiements:
+My project meets the project requirements, detailed a follows: 
 
 - My project is about a problem worth solving, analyzing, and visualizing. In fact, my (previous) company plans to implement the results.
-- I used machine learning, since my project focuses on developing a multilinear regression model to use forecast data to model site-specific conditions.
-- I used Scikit-learn for my multilinear regression.
+- My project uses machine learning, since my project focuses on developing a multilinear regression model (regression is type of supervised learning method) to use forecast data to model site-specific conditions.
+- My project uses Scikit-learn for the multilinear regression.
 - My project dataset contains well over 100 records.
-- From the list of "you must use at least two of the following", I used:
+- From the list of "you must use at least two of the following", My project uses:
   - Python Pandas
   - Python Matplotlib
-- In addition, I used:
+- Since my project is based on Python analysis, my project uses several other additional python packages/libraries, such as:
   - Python datetime
   - Python numpy
   - Python math
