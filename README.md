@@ -7,7 +7,7 @@
 My project meets the project requirements, detailed a follows: 
 
 - My project is about a problem worth solving, analyzing, and visualizing. In fact, my (previous) company plans to implement the results.
-- My project uses machine learning, since my project focuses on developing a multilinear regression model to use forecast data to model site-specific conditions.
+- My project uses machine learning, since my project focuses on developing a multilinear regression model (regression is type of supervised learning method) to use forecast data to model site-specific conditions.
 - My project uses Scikit-learn for the multilinear regression.
 - My project dataset contains well over 100 records.
 - From the list of "you must use at least two of the following", My project uses:
