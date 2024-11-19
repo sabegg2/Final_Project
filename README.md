@@ -4,20 +4,17 @@
 
 ## Project Requirements
 
-For Project 4, you will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
+My project meets the following project requiements:
 
-- Find a problem worth solving, analyzing, or visualizing.
-- Use machine learning (ML) with the technologies we’ve learned.
-- You must use Scikit-learn and/or another machine learning library.
-- Your project must be powered by a dataset with at least 100 records.
-- You must use at least two of the following:
+- My project is about a problem worth solving, analyzing, and visualizing. In fact, my (previous) company plans to implement the results.
+- I used machine learning, since my project focuses on developing a multilinear regression model to use forecast data to model site-specific conditions.
+- I used Scikit-learn.
+- My project dataset contains well over 100 records.
+- From the list of "you must use at least two of the following", I used:
   - Python Pandas
   - Python Matplotlib
-  - HTML/CSS/Bootstrap
-  - JavaScript Plotly
-  - JavaScript Leaflet
-  - SQL Database
-  - MongoDB Database
-  - Google Cloud SQL
-  - Amazon AWS
-  - Tableau
+- In addition, I used:
+  - Python datetime
+  - Python numpy
+  - Python math
+  - Python scipy.stats
