@@ -38,13 +38,13 @@ This is the powerpoint for the in-class presentation:
 
 ## Python Notebook Files
 
-The following are the notebook files used to conduct the analyis:
+The following are the notebook files used to conduct the analysis:
 
 [read_nam_files.ipynb](Python/read_nam_files.ipynb)
-Reads in the NAM files from .tar files, extracts the desired wind and tempearture forecasts for the location of the anemometer, and saves in .csv. 
+Reads in the NAM files from .tar files, extracts the desired wind and temperature forecasts for the location of the anemometer, and saves in .csv. 
 
 [3d_vs_NAM_analysis.ipynb](Python/3d_vs_NAM_analysis.ipynb)
 Compares the 3D anemometer measurements to the NAM forecast data over the same timeframe, via timeseries plots, histograms, binning, and linear regression.
 
 [regression.ipynb](Python/regression.ipynb)
-Developes a multilinear regression model trained on NAM forecast data to predict site-specific wind and temperature predictions. The model performance is also assessed.
+Develops a multilinear regression model trained on NAM forecast data to predict site-specific wind and temperature predictions. The model performance is also assessed.
