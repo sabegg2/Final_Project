@@ -1,4 +1,4 @@
-# Final_Project: Using Multilinear Regression of Publicly-Provided NAM Forecast Data to Develop Site-Specific Wind and Temperature Models
+# Final Project: Using Multilinear Regression of Publicly-Provided NAM Forecast Data to Develop Site-Specific Wind and Temperature Models
 - Final Project
 - Steph Abegg (I okayed it with James to do this project solo so I could use company data)
 
