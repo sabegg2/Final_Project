@@ -42,6 +42,7 @@ My project meets the project requirements, detailed a follows:
   - Python datetime
   - Python numpy
   - Python math
+  - Python sklearn
   - Python scipy.stats
   - Python pygrib
   - Python os
